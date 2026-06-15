@@ -27,7 +27,6 @@ J'ai également été chargé de valider et standardiser les choix technologique
 Dans ce dépôt, vous trouverez des extraits illustrant la standardisation imposée à l'équipe :
 * La configuration des routes et de la sécurité (ex: `HomeDispatcher`).
 * La structure du menu et des permissions dynamiques (`App.tsx`).
-* L'arborescence des dossiers reflétant la séparation stricte Frontend / Backend.
 
 ---
 *Ce projet démontre ma capacité à faire le pont entre les besoins stratégiques d'un client, l'ingénierie logicielle, et la coordination humaine d'une équipe de développement.*
